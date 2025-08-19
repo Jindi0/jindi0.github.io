@@ -23,3 +23,62 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+html, body {
+  font-size: 18px;   // 调整全局字体大小
+  line-height: 1.6;  // 调整行距让阅读更舒服
+}
+
+a:hover {
+  color: #2176ff;   // 你想要的 hover 颜色，比如红色
+  text-decoration: underline; // 鼠标悬停时加下划线（可选）
+}
+
+a {
+  color: #2176ff;  /* 普通状态颜色 */
+  text-decoration: none; /* 可选，去掉下划线 */
+}
+
+.nav-link.active {
+  color: #2176ff !important;  /* 当前页面 tab */
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #2176ff !important;  /* 悬停 */
+}
+
+/* 当前 tab 的颜色 */
+.navbar .active a,
+.navbar a[aria-current="page"] {
+  color: #2176ff !important;   /* 你想置顶的颜色，例如暗红 */
+  font-weight: bold;           /* 可选，加粗更明显 */
+}
+
+/* 去掉 publications 列表序号 */
+ol.bibliography {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.bibliography > li {
+  margin-left: 8em;   /* 取消为了序号预留的缩进 */
+  margin-bottom: 1em;
+}
+
+/* 年份标题颜色 */
+#publist > h2 {
+  color: #5c677d !important;  /* 想要的颜色 */
+}
+
+/* 改 social icons hover 颜色 */
+/* 亮色模式下的链接/悬停色 */
+:root,
+[data-theme="light"] {
+  --link-hover-color: #2176ff;
+  --global-theme-color: #2176ff; /* 有些版本用这个 */
+}
+/* 暗色模式下（可选） */
+[data-theme="dark"] {
+  --link-hover-color: #2176ff;
+}

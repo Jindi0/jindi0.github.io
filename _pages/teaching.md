@@ -1,12 +1,35 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**<span style="color:#0072CE;">DePaul University</span>** — Instructor 
+<div>
+  <span style="display:inline-block; width:120px;">2025 Fall</span>
+  <span>CSC 402 Data Structures I</span>
+</div>
 
-Organize your courses by years, topics, or universities, however you like!
+<br>
+
+**<span style="color:#115740;">William & Mary</span>** — Teaching Assistant  
+<div>
+  <span style="display:inline-block; width:120px;">2022 Spring</span>
+  <span>CSCI 303 Algorithms</span>
+</div>
+<div>
+  <span style="display:inline-block; width:120px;">2021 Fall</span>
+  <span>CSCI 416 Introduction to Machine Learning</span>
+</div>
+<div>
+  <span style="display:inline-block; width:120px;">2021 Spring</span>
+  <span>CSCI 304 Computer Organization</span>
+</div>
+<div>
+  <span style="display:inline-block; width:120px;">2020 Fall</span>
+  <span>CSCI 301 Software Development</span>
+</div>
+
