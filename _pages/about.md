@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="font-family: Arial;">
-      <p>Jarvis College of CDM 000</p>
+      <p>Jarvis College of CDM 836</p>
       <p>243 S Wabash Ave</p>
       <p>Chicago, IL 60604</p>
     </div>
