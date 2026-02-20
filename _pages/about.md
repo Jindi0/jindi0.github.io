@@ -42,7 +42,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<span style="color: #ef476f; font-weight: bold;">⚡ I am actively recruiting motivated Ph.D. students!</span>
+<span style="color: #ef476f; font-weight: bold;">⚡ I am actively recruiting motivated Ph.D., M.S., and undergraduate students!</span>
 If you are interested in joining my research group, please contact me by email with your CV and a brief description of your research interests.
 
 📧 Contact: <a href="mailto:jwu115@depaul.edu">jwu115@depaul.edu</a>
