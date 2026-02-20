@@ -28,7 +28,7 @@
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
-        {% else %} 
+        {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
             include figure.liquid
@@ -48,8 +48,9 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-14{% else %}col-sm-14{% endif %}">
     <!-- Title -->
-    <div class="title"><strong>{{ entry.title }}</strong>&nbsp;
-    {% if entry.pdf %}
+    <div class="title">
+      <strong>{{ entry.title }}</strong>&nbsp;
+      {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
           [<a href="{{ entry.pdf }}" target="_blank">paper</a>]
         {% else %}

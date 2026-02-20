@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 3
 ---
 
-**<span style="color:#0072CE;">DePaul University</span>** — Instructor 
+**<span style="color:#0072CE;">DePaul University</span>** — Instructor
+
 <div>
   <span style="display:inline-block; width:120px;">2026 Winter</span>
   <span>CSC 403 Data Structures II</span>
@@ -19,7 +20,8 @@ nav_order: 3
 
 <br>
 
-**<span style="color:#115740;">William & Mary</span>** — Teaching Assistant  
+**<span style="color:#115740;">William & Mary</span>** — Teaching Assistant
+
 <div>
   <span style="display:inline-block; width:120px;">2022 Spring</span>
   <span>CSCI 303 Algorithms</span>
@@ -36,4 +38,3 @@ nav_order: 3
   <span style="display:inline-block; width:120px;">2020 Fall</span>
   <span>CSCI 301 Software Development</span>
 </div>
-

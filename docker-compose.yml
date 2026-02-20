@@ -5,12 +5,12 @@ services:
     # build: .    # ← 删掉或注释，确保用预构建镜像
     command: jekyll serve --watch --force_polling --host 0.0.0.0 --port 4000
     ports:
-      - "8080:4000"    # 本机 8080 → 容器 4000
+      - "8080:4000" # 本机 8080 → 容器 4000
       - "35729:35729"
     volumes:
       - .:/srv/jekyll
-      - jekyll_cache:/srv/jekyll/.jekyll-cache   # 用命名卷隔离缓存，避免死锁
-      - jekyll_bundle:/usr/local/bundle          # gems 放卷里，加速 & 避免权限问题
+      - jekyll_cache:/srv/jekyll/.jekyll-cache # 用命名卷隔离缓存，避免死锁
+      - jekyll_bundle:/usr/local/bundle # gems 放卷里，加速 & 避免权限问题
     environment:
       - JEKYLL_ENV=development
       - JEKYLL_DISABLE_CACHE=true

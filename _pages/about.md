@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="font-size:20px;">Assistant Professor, DePaul University</span>  
+subtitle: <span style="font-size:20px;">Assistant Professor, DePaul University</span>
 
 profile:
   align: right
@@ -14,8 +14,6 @@ profile:
       <p>243 S Wabash Ave</p>
       <p>Chicago, IL 60604</p>
     </div>
-
-
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -34,7 +32,6 @@ latest_posts:
 I am an Assistant Professor in the [School of Computing](https://www.cdm.depaul.edu/academics/Pages/School-of-Computing.aspx) at [DePaul University](https://www.depaul.edu/Pages/default.aspx). My research focuses on **quantum computing** and its intersection with machine learning, security, and privacy, with emphasis on quantum machine learning, error modeling and mitigation, and circuit compilation.
 
 I received my Ph.D. in Computer Science from William & Mary, where I was advised by [Prof. Qun Li](https://www.cs.wm.edu/~liqun/). I also hold a M.S. in Computer Science from Syracuse University and a B.S. in Information Security from Nanjing University of Aeronautics and Astronautics.
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

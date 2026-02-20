@@ -25,6 +25,7 @@ cv_pdf: JindiCV.pdf # you can also use external links here
         type="application/pdf"
         width="110%"
         height="1000px">
+
   <!-- <p>如果浏览器未能显示 PDF，请
      <a href="{{ '/assets/pdf/JindiCV.pdf' | relative_url }}">点击这里下载</a>。</p> -->
 </object>
