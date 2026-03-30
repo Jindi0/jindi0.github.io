@@ -10,6 +10,10 @@ nav_order: 3
 **<span style="color:#0072CE;">DePaul University</span>** — Instructor
 
 <div>
+  <span style="display:inline-block; width:120px;">2026 Spring</span>
+  <span>CSC 300/402 Data Structures I</span>
+</div>
+<div>
   <span style="display:inline-block; width:120px;">2026 Winter</span>
   <span>CSC 403 Data Structures II</span>
 </div>
