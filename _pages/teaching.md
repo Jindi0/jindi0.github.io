@@ -20,7 +20,7 @@ nav_order: 3
 </div>
 
 <div>
-  <span style="display:inline-block; width:420px;">CSC 300 Data Structures I (undergraduate section)</span>
+  <span style="display:inline-block; width:420px;">CSC 300 Data Structures I</span>
   <span>Spring 2026</span>
 </div>
 
