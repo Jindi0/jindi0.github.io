@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to SIGMETRICS.
+Our paper has been accepted to SIGMETRICS 2026.
