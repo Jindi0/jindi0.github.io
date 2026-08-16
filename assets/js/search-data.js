@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-receive-the-depaul-school-of-computing-urc-competitive-research-grant",
+            },},{id: "news-excited-to-receive-the-depaul-school-of-computing-qic-grant",
+          title: 'Excited to receive the DePaul School of Computing QIC Grant.',
+          description: "",
+          section: "News",},{id: "news-excited-to-receive-the-depaul-school-of-computing-urc-competitive-research-grant",
           title: 'Excited to receive the DePaul School of Computing URC Competitive Research Grant.',
           description: "",
           section: "News",},{id: "news-excited-to-announce-that-i-have-joined-depaul-university-as-an-assistant-professor-in-the-school-of-computing",
