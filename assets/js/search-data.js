@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-announce-that-i-have-joined-depaul-university-as-an-assistant-professor-in-the-school-of-computing",
+            },},{id: "news-received-depaul-soc-urc-competitive-research-grant",
+          title: 'Received DePaul SoC URC Competitive Research Grant.',
+          description: "",
+          section: "News",},{id: "news-excited-to-announce-that-i-have-joined-depaul-university-as-an-assistant-professor-in-the-school-of-computing",
           title: 'Excited to announce that I have joined DePaul University as an Assistant Professor...',
           description: "",
           section: "News",},{id: "news-our-paper-has-been-accepted-to-ieee-transactions-on-computers",
@@ -416,6 +419,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-congratulations-to-my-student-shivani-arun-nyamgouda-on-receiving-the-depaul-cdm-graduate-research-assistantship-award",
           title: 'Congratulations to my student, Shivani Arun Nyamgouda, on receiving the DePaul CDM Graduate...',
+          description: "",
+          section: "News",},{id: "news-excited-to-announce-that-i-received-depaul-university-rosalind-franklin-university-collaborative-grants",
+          title: 'Excited to announce that I received DePaul University - Rosalind Franklin University Collaborative...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
