@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-received-depaul-soc-urc-competitive-research-grant",
-          title: 'Received DePaul SoC URC Competitive Research Grant.',
+            },},{id: "news-excited-to-receive-the-depaul-school-of-computing-urc-competitive-research-grant",
+          title: 'Excited to receive the DePaul School of Computing URC Competitive Research Grant.',
           description: "",
           section: "News",},{id: "news-excited-to-announce-that-i-have-joined-depaul-university-as-an-assistant-professor-in-the-school-of-computing",
           title: 'Excited to announce that I have joined DePaul University as an Assistant Professor...',
